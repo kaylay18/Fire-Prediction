@@ -4,4 +4,4 @@ This app predicts wether or not there will be a fire depending on several factor
 ## Usage
 The app can be run through hugging face (https://huggingface.co/spaces/kaylayi18/FirePrediction), and the required libraries in order to run this app are listed in the requirements.txt file included in the repository.
 ## Description
-This repository includes the data preprocessing in google colab, the best/trained machine learning model, the app.py file that can be run through huggingface, and Deon's checklist.
+This repository includes the data preprocessing in google colab, the best/trained machine learning model, the app.py file that can be run through huggingface, and Deon's checklist. The best model identified from training multiple machine learning models is logistic regression with RSME.
